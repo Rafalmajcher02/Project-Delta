@@ -1,0 +1,6 @@
+ToDo
+- Game Over on Timer
+
+Fix
+- Debug minus health doesn't game over
+- Holding shift before running doesn't use stamina
